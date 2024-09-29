@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Joshua Arrazola, a 19 year old undergraduate student focused on database management using **MySQL**, **MariaDB**, and **MS-SQL**, where I work on designing efficient systems and ensuring data reliability. When I'm not working on databases, I'm solving problems in competitive programming, focusing on algorithms and data structures. You can often find me tackling challenges on LeetCode, Hackerrank, or Project Euler.
+Hi, my name is Joshua Arrazola, a 19-year-old undergraduate student focused on database management using **MySQL**, **MariaDB**, and **MS-SQL**. I work on designing efficient systems and ensuring data reliability. During the day, I'm studying **databases**, but at night, I'm a **competitive programmer**, solving problems related to **data structures** (graphs, trees, queues, stacks, linked lists, etc.) and various algorithms. You can often find me tackling challenges on LeetCode, HackerRank, or Project Euler.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/JArrazola/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joshuanarrazola)
