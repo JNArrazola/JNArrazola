@@ -1,10 +1,13 @@
 # 💫 About Me:
-Hi, my name is Joshua Arrazola, a 20-year-old undergraduate student focused on database management using **MySQL**, **MariaDB**, and **MS-SQL**. I work on designing efficient systems and ensuring data reliability. During the day, I'm studying **databases**, but at night, I'm a **competitive programmer**, solving problems related to **data structures** (graphs, trees, queues, stacks, linked lists, etc.) and various algorithms. You can often find me tackling challenges on LeetCode, HackerRank, or Project Euler.
+I’m **Joshua Arrazola**, a **competitive programmer** with expertise in designing **efficient** and **robust** systems. I have excelled in multiple programming competitions, showcasing my ability to solve complex problems under pressure.
+
+> Here you can see come of my **Competitive Programming** Profiles: 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/JArrazola/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joshuanarrazola)
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-arrazola/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joshua.arrazola) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JArrazola_) 
 
 # 💻 Tech Stack:
