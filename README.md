@@ -10,7 +10,7 @@ I also do competitive programming and have a passion for solving complex problem
 ### 👨‍💻 Competitive Programming Profiles
 
 #### Leetcode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JArrazola?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/u/JArrazola/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/JArrazola?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/JArrazola/)
 
 #### Hackerrank 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joshuanarrazola)
