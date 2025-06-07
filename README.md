@@ -1,9 +1,11 @@
 # 💫 About Me
-I'm **Joshua Arrazola**, a backend developer focused on building efficient, maintainable, and scalable server-side solutions. I have a strong command of **data structures**, **algorithms**, and **programming logic**, which I apply both in professional development and **competitive programming**.
+Engineering student with experience in web development, artificial intelligence, and data analysis. I have also worked extensively in the area of databases, handling tasks such as schema migration, design, and architecture for performance optimization.
 
-My experience includes working on projects in **artificial intelligence**, **data analysis**, and **natural language processing**, with a particular focus on **causal inference**, **neural networks**, and real-time applications. I’m comfortable working with a wide range of technologies including **Node.js**, **Express**, **Web Development**, and **TensorFlow**, and I thrive on solving technically demanding challenges with clean and thoughtful code.
+Skilled in technologies including Python, SQL, Java, C/C++, TensorFlow, JavaScript, PHP, etc., and in building scalable backend systems and applications.
 
-> I strive to turn complexity into clarity through optimized, scalable, and purposeful software.
+Recognized in national and state-level programming contests, with a strong background in algorithms, data structures, and efficient problem solving.
+
+> You can read more about me in my [personal portfolio](https://jarrazola.vercel.app/).
 
 ---
 
