@@ -1,18 +1,18 @@
 # 💫 About Me
-I'm **Joshua Arrazola**, a backend developer with a solid foundation in algorithms, databases, and artificial intelligence. I specialize in building efficient and scalable server-side solutions using modern frameworks like Node.js and Express, and have hands-on experience in data-driven projects involving NLP, causal inference, and neural networks.
+I'm **Joshua Arrazola**, a backend developer focused on building efficient, maintainable, and scalable server-side solutions. I have a strong command of **data structures**, **algorithms**, and **programming logic**, which I apply both in professional development and **competitive programming**.
 
-I also do competitive programming and have a passion for solving complex problems. I enjoy tackling challenges that require innovative solutions and am always eager to learn new technologies and methodologies.
+My experience includes working on projects in **artificial intelligence**, **data analysis**, and **natural language processing**, with a particular focus on **causal inference**, **neural networks**, and real-time applications. I’m comfortable working with a wide range of technologies including **Node.js**, **Express**, **Web Development**, and **TensorFlow**, and I thrive on solving technically demanding challenges with clean and thoughtful code.
 
-> I believe in solving real problems with clean, optimized, and scalable code.
+> I strive to turn complexity into clarity through optimized, scalable, and purposeful software.
 
 ---
 
 ### 👨‍💻 Competitive Programming Profiles
 
-#### Leetcode
+#### Leetcode  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JArrazola?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/JArrazola/)
 
-#### Hackerrank 
+#### Hackerrank  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joshuanarrazola)
 
 ---
@@ -20,8 +20,8 @@ I also do competitive programming and have a passion for solving complex problem
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-arrazola/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@jarrazola-algorithms)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joshua.arrazola)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JArrazola_)
 
 ---
 
@@ -33,8 +33,11 @@ I also do competitive programming and have a passion for solving complex problem
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F47B00?style=for-the-badge&logo=oracle&logoColor=white)
+![Transact-SQL](https://img.shields.io/badge/T%2DSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## 🧠 Data Science & AI  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -43,7 +46,8 @@ I also do competitive programming and have a passion for solving complex problem
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-39B5E0?style=for-the-badge)
-![VADER](https://img.shields.io/badge/VADER_NLP-blueviolet?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-%23F39C12?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%237B1FA2?style=for-the-badge)
 
 ## 🧩 Frameworks & Tools  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -52,6 +56,9 @@ I also do competitive programming and have a passion for solving complex problem
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=java&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-%233776AB.svg?style=for-the-badge&logo=qt&logoColor=white)
+![Mendix](https://img.shields.io/badge/Mendix-00338D?style=for-the-badge&logo=mendix&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💾 Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,6 +71,7 @@ I also do competitive programming and have a passion for solving complex problem
 ## 🖥️ Operating Systems  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
