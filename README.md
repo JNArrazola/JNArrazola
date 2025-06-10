@@ -5,7 +5,7 @@ Skilled in technologies including Python, SQL, Java, C/C++, TensorFlow, JavaScri
 
 Recognized in national and state-level programming contests, with a strong background in algorithms, data structures, and efficient problem solving.
 
-> You can read more about me in my [personal portfolio](https://jarrazola.vercel.app/).
+> You can read more about me in my [personal portfolio](https://www.joshuaarrazola.me/).
 
 ---
 
