@@ -1,50 +1,41 @@
-# 👋 Hi, I'm Joshua Arrazola
-I'm an **AI & NLP Researcher** and **Software Engineer** with a strong background in algorithms, backend engineering, data systems, and applied machine learning.
+# Heya bro
+I’m Joshua, an **AI & NLP researcher** and **software engineer** with a strong focus on **language models, semantic retrieval systems, and algorithmic problem solving**. My work spans **applied machine learning, backend engineering, and data-intensive architectures**, with an emphasis on building systems that work at scale.
 
-Currently, I work at the **Institute for the Future of Education (Tec de Monterrey)**, where I develop **semantic retrieval architectures**, **LLM pipelines**, and **predictive models** using embeddings, vector search, and transformer-based systems.
+I currently collaborate with the **Institute for the Future of Education (Tecnológico de Monterrey)**, where I design and implement **semantic search architectures**, **embedding-based retrieval pipelines**, and **LLM-driven models** for forecasting and analytical applications.
 
-I’m also a **two-time national programming champion** (NPC 2024 & 2025) and have built real-world platforms in web development, UI/UX, and intelligent automation.
+I also develop **custom web solutions** for big content creators and digital brands.
 
-> 🌐 Portfolio: **https://www.joshuaarrazola.me**
-
----
-
-## 🧠 What I Do
-
-- **AI & NLP Research:** RAG systems, embeddings, LLM alignment, semantic search.  
-- **Machine Learning / Deep Learning:** ANN, CNN, Transformers, forecasting models.  
-- **Backend & Data Engineering:** scalable APIs, DB design, SQL optimization.  
-- **Web Development & UI/UX:** full e-commerce flows, user-centered design, prototyping.  
-- **Algorithms & Competitive Programming:** 800+ problems solved, advanced Competitive Programming training.
+Don't really wanna sound too linkediny, if u want to know more about me, check out:
+* Portfolio: **https://www.joshuaarrazola.me**
 
 ---
 
-## 🏆 Awards & Achievements
+## Areas of Work
 
-- 🥇 **National Polytechnic Programming Contest – 1st place (2025)**  
-- 🥇 **National Polytechnic Programming Contest – 1st place (2024)**  
-- 🥈 **TamCoder 2024 – 2nd place (Cinvestav Tamaulipas)**  
-- 🎖️ **Top Tamaulipas (2024) – Academic excellence recognition**
+- **AI & NLP Research**  
+  Retrieval-Augmented Generation (RAG), embeddings, semantic search, LLM pipelines, evaluation and alignment.
 
----
+- **Machine Learning & Deep Learning**  
+  Supervised and unsupervised learning, neural networks (ANN, CNN, Transformers), time-series and forecasting models.
 
-## 🧰 Tech Stack (Curated obviously)
+- **Backend & Data Engineering**  
+  API design, relational database modeling, query optimization, data pipelines, scalable backend services.
 
-### **Languages**
-Python • C++ • Java • JavaScript • SQL (T-SQL, PL/SQL) • PHP • R
+- **Web Development for Influencers & Digital Brands**  
+  Custom websites, e-commerce platforms, landing pages, performance optimization, UI/UX design, and integrations for high-traffic creator ecosystems.
 
-### **AI & Data**
-PyTorch • TensorFlow • Transformers • scikit-learn • FAISS • Pandas • NumPy • Matplotlib • NLP
+- **Algorithms & Competitive Programming**  
+  Advanced problem solving, graph algorithms, dynamic programming, optimization techniques.  
+  800+ problems solved across multiple platforms.
 
-### **Frameworks & Tools**
-React • Node.js • Express • PyQt6 • JavaFX • Bootstrap • Git/GitHub • Mendix
 
-### **Databases**
-MySQL • SQL Server • SQLite • MariaDB
+## Awards 
+- **National Polytechnic Programming Contest — 1st Place (2025)**  
+- **National Polytechnic Programming Contest — 1st Place (2024)**  
+- **TamCoder Programming Contest — 2nd Place (2024, Cinvestav Tamaulipas)**  
 
----
 
-## 📊 Competitive Programming Profiles
+## Competitive Programming
 
 **LeetCode**  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/JArrazola?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/JArrazola/)
@@ -54,9 +45,5 @@ MySQL • SQL Server • SQLite • MariaDB
 
 ---
 
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-arrazola/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@jarrazola-algorithms)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joshua.arrazola)  
-
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-arrazola/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@jarrazola-algorithms) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joshua.arrazola)
