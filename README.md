@@ -1,39 +1,13 @@
-# Heya bro
-I’m Joshua, an **AI & NLP researcher** and **software engineer** with a strong focus on **language models, semantic retrieval systems, and algorithmic problem solving**. My work spans **applied machine learning, backend engineering, and data-intensive architectures**, with an emphasis on building systems that work at scale.
+# Heyyyy!
+Hi, I'm Joshua, I'm a software architect, artificial intelligence researcher and competitive programmer. I have a passion for solving complex problems involving math, algorithms and code. 
 
-I currently collaborate with the **Institute for the Future of Education (Tecnológico de Monterrey)**, where I design and implement **semantic search architectures**, **embedding-based retrieval pipelines**, and **LLM-driven models** for forecasting and analytical applications.
+I'm really always open to collaborate, work, or just chat about anything related to software, AI or algorithms, so feel free to reach out to me on any of my social media platforms or send me an email.
 
-I also develop **custom web solutions** for big content creators and digital brands.
+See you around! :)
 
-Don't really wanna sound too linkediny, if u want to know more about me, check out:
-* Portfolio: **https://www.joshuaarrazola.me**
+P.S. This is me btw
 
----
-
-## Areas of Work
-
-- **AI & NLP Research**  
-  Retrieval-Augmented Generation (RAG), embeddings, semantic search, LLM pipelines, evaluation and alignment.
-
-- **Machine Learning & Deep Learning**  
-  Supervised and unsupervised learning, neural networks (ANN, CNN, Transformers), time-series and forecasting models.
-
-- **Backend & Data Engineering**  
-  API design, relational database modeling, query optimization, data pipelines, scalable backend services.
-
-- **Web Development for Influencers & Digital Brands**  
-  Custom websites, e-commerce platforms, landing pages, performance optimization, UI/UX design, and integrations for high-traffic creator ecosystems.
-
-- **Algorithms & Competitive Programming**  
-  Advanced problem solving, graph algorithms, dynamic programming, optimization techniques.  
-  800+ problems solved across multiple platforms.
-
-
-## Awards 
-- **National Polytechnic Programming Contest — 1st Place (2025)**  
-- **National Polytechnic Programming Contest — 1st Place (2024)**  
-- **TamCoder Programming Contest — 2nd Place (2024, Cinvestav Tamaulipas)**  
-
+![Me](ctt.jpeg)
 
 ## Competitive Programming
 
